@@ -1,1 +1,1 @@
-# portfolio-terminal
+# Terminal portfolio
